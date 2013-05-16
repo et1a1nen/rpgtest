@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EyeMovement.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CubeMoving.js">
     <Files>
-      <File FileName="Assets\EyeMovement.js" Line="55" Column="26" />
+      <File FileName="Assets\CubeMoving.js" Line="17" Column="13" />
+      <File FileName="Assets\EyeMovement.js" Line="67" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
